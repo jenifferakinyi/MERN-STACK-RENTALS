@@ -1,7 +1,8 @@
-`<h1>FULL-STACK RENTAL APPARTMENTS WEBSITE</h1>
-<p>This is a MERN-STACK application for rental appartment where users can find appartment for rent and book a visit,also users can post their residency</p>
-<p>The application is divided into two the API and view.In the API I have used the MVC approach and for authentication we have used third party authentication service "Auth0"</p>
-<h2>Installation</h2>
+#FULL-STACK RENTAL APPARTMENTS WEBSITE
+This is a MERN-STACK application for rental appartment where users can find appartment for rent and book a visit,also users can post their residency
+The application is divided into two the API and view.In the API I have used the MVC approach and for authentication we have used third party authentication service Auth0
+
+##Installation
 ### Clone repository
 
 ```sh
