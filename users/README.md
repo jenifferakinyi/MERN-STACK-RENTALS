@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Front-End for MERN-STACK-RENTALS application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the user side of the application, users are able to view vacant appartment for rent and also post appartment only if they are logged in .
 
 ## Available Scripts
 
