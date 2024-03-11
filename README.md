@@ -13,7 +13,7 @@ git clone github.com/jenifferakinyi/MERN-STACK-RENTALS
 ```sh
 cd api
 ```
-### Install dependancies
+### Install Dependancies
 
 ```sh
 npm install
