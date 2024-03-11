@@ -27,5 +27,12 @@ npm Start
 ```sh
 cd users
 ```
-6. npm install<br>
-7. npm start<br>
+### Install dependancies
+
+```sh
+npm install
+```
+### Start the development server
+```sh
+npm Start
+```
