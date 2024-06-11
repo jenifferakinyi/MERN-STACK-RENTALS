@@ -20,7 +20,7 @@ npm install
 ```
 ### Start the development
 ```sh
-npm Start
+npm start
 ```
 ### Navigate to the view directory
 
