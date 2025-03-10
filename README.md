@@ -15,6 +15,13 @@ The application is divided into two parts: <br>
 - Edit or remove apartment listings (for owners)
 - Responsive and user-friendly UI
 
+## Tech Stack
+- Frontend: React, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: Auth0
+- State Management: Redux 
+
 ## Installation
 ### Clone repository
 
