@@ -58,9 +58,7 @@
         {
           "_id": { "$oid": "64392d67dfd90fb29e464fb8" },
           "title": "four bedroom house with en suit",
-          "description": "4 Bedroom House all en-suite + dsq Gated Community
-          Renting @ 250,000
-          A stunning 4 Bedroom Villas all Bedroom En-suite + Dsq in the high leafy suburbs of Kiambu Rd tacked away in neighborhood rich with exotic trees and beautiful flora. They are placed in a serene environment yet so close to Runda, shopping center and Nairobi CBD. It’s a highly sort after neighborhood due to close proximities to Shopping malls, educational institutions, social and health facilities, eateries and wineries",
+          "description": "4 Bedroom House all en-suite + dsq Gated Community Renting @ 250,000 A stunning 4 Bedroom Villas all Bedroom En-suite + Dsq in the high leafy suburbs of Kiambu Rd tacked away in neighborhood rich with exotic trees and beautiful flora. They are placed in a serene environment yet so close to Runda, shopping center and Nairobi CBD. It’s a highly sort after neighborhood due to close proximities to Shopping malls, educational institutions, social and health facilities, eateries and wineries",
           "price": 250000,
           "address": "Runda westlands",
           "city": "Nairobi",
@@ -228,9 +226,7 @@
         {
           "_id": { "$oid": "645e27938b90ba42adbed599" },
           "title": "Two bed appartment with backup generator",
-          "description": "Just 4 minutes from Two Rivers Mall, is this modern finished apartments consisting of well done 2 Bedrooms with the master bathroom ensuite.
-          The kitchens have been made for you to enjoy making scrumptious meals at your home.
-          ☆ 2nd row from the highway near Joyland Shopping Centre.",
+          "description": "Just 4 minutes from Two Rivers Mall, is this modern finished apartments consisting of well done 2 Bedrooms with the master bathroom ensuite.The kitchens have been made for you to enjoy making scrumptious meals at your home.☆ 2nd row from the highway near Joyland Shopping Centre.",
           "price": 35000,
           "address": "Joyland,Ruaka",
           "city": "Nairobi",
@@ -258,12 +254,7 @@
         {
           "_id": { "$oid": "648a1ed5d52203e45f037608" },
           "title": "Two bed appartment with en suite",
-          "description": "Executive 2 Bedroom Apartment Master En-suite For Rent Kitisuru
-          Location New Kitisuru (Mwimuto).
-          2Br without Sq Renting @42,000 per month
-          
-          It offers a new concept of home living within the area.
-          It is perfect blend of modern apartments characterized by the latest design and finishes.",
+          "description": "Executive 2 Bedroom Apartment Master En-suite For Rent Kitisuru Location New Kitisuru (Mwimuto) .2Br without Sq Renting @42,000 per month It offers a new concept of home living within the area.It is perfect blend of modern apartments characterized by the latest design and finishes.",
           "price": 41500,
           "address": "kitisuru,Mwimuto",
           "city": "Nairobi",

@@ -5,6 +5,7 @@
   "dependencies": {
     "@auth0/auth0-react": "^2.2.4",
     "@babel/parser": "^7.23.6",
+    "@babel/preset-env": "^7.25.4",
     "@emotion/react": "^11.11.3",
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^1.0.6",
@@ -39,7 +40,7 @@
     "typeface-poppins": "^1.1.13",
     "typeface-roboto": "^1.1.13",
     "web-vitals": "^2.1.4",
-    "world-countries": "^4.0.0"
+    "world-countries": "^4.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -67,11 +68,14 @@
     ]
   },
   "devDependencies": {
+    "@babel/core": "^7.25.2",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-syntax-import-assertions": "^7.25.6",
+    "@babel/plugin-syntax-import-attributes": "^7.24.7",
     "autoprefixer": "^10.4.16",
     "babel-preset-react-app": "^10.0.1",
     "postcss": "^8.4.32",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "tailwindcss": "^3.4.0"
   }
 }

@@ -277,7 +277,7 @@ export default function Footer() {
                     </div>
 
                     <div className="mb-6">
-                        <h5 className="mb-2.5 font-bold uppercase font-roboto font-medium text-orange-600 ">HomeMall house-to-let</h5>
+                        <h5 className="mb-2.5 font-bold uppercase font-roboto  text-orange-600 ">HomeMall house-to-let</h5>
 
                         <ul className="mb-0 list-none">
                             <li>

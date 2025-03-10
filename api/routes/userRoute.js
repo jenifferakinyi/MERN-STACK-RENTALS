@@ -3,7 +3,7 @@ const { createUser, bookVisit, getAllBookings, cancelBooking, toFav, getAllFavor
 const jwtCheck = require("../config/auth0Config.js")
 const router = express.Router();
 
-router.post("/register", jwtCheck,  createUser);
+router.post("/register",   createUser);
 router.post("/bookVisit/:id", jwtCheck,  bookVisit);
 router.post("/allBookings", getAllBookings);
 router.post("/removeBooking/:id", jwtCheck, cancelBooking);

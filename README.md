@@ -56,3 +56,12 @@ npm install
 ```sh
 npm Start
 ```
+## Screenshots
+
+### Homepage
+![Homepage Screenshot](public/images/Homepage.png)
+
+### Apartment Listing Page
+![Listing Screenshot](public/listing.png)
+
+
