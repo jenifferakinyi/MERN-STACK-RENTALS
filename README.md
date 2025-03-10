@@ -3,9 +3,9 @@
 House-To-Let is a MERN stack web application that allows users to explore available apartments for rent. Users can view property details such as amenities, location, and price. Additionally, landlords or property owners can post their apartments for rent, making it a comprehensive platform for both tenants and property owners.
 
 ## Application Structure
-The application is divided into two parts:
-API (Backend) - Built using Node.js and Express.js, following the MVC (Model-View-Controller) architecture.
-View (Frontend) - Developed using React for the user interface.
+The application is divided into two parts: <br>
+- API (Backend) - Built using Node.js and Express.js, following the MVC (Model-View-Controller) architecture.
+- View (Frontend) - Developed using React for the user interface.
 
 ## Features
 - User authentication via Auth0 (Third-party authentication service)
